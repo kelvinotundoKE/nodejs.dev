@@ -23,7 +23,7 @@ In Node.js the new ECMAScript standards can be used without problems, as you don
 
 npm with its simple structure helped the ecosystem of Node.js proliferate, and now the npm registry hosts over 1,000,000 open source packages you can freely use.
 
-## An Example Node.js Application
+## An Example of Node.js Application
 
 The most common example Hello World of Node.js is a web server:
 
